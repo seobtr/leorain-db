@@ -95,75 +95,138 @@
   "albums": [
     {
       "id": 1,
-      "img": "/assets/albums/cover/super.png",
-      "name": "Super - 2023",
+      "img": "/assets/albums/cover/album-why.png",
+      "name": "why - 2021",
       "tracks": [
         {
-          "name": "Super",
-          "src": "https://open.spotify.com/embed/track/0nJZMRSgpjfQGafuKsva6F?utm_source=generator"
-        }
-      ],
-      "iframe": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/album/77tTqRtwPHfnrJg2QjrVQb?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
-    },
-    {
-      "id": 2,
-      "img": "/assets/albums/cover/nights-in-the-am.png",
-      "name": "Nights In the A.M.",
-      "tracks": [
+          "name": "why",
+          "src": "https://open.spotify.com/track/6WWke4VMtmmeZW0wjhDnt3?si=e4b2d4f9095d41d7"
+        },
         {
-          "name": "Nights In the A.M.",
-          "src": "https://open.spotify.com/embed/track/3BDOK7jDAGK8yKAg1A6aEm?utm_source=generator"
+          "name": "love language",
+          "src": "assets/why.mp3"
+        },
+        {
+          "name": "nights in the am",
+          "src": "assets/why.mp3"
+        },
+        {
+          "name": "rearranged",
+          "src": "assets/why.mp3"
+        },
+        {
+          "name": "heavenly",
+          "src": "assets/why.mp3"
         }
-      ],
-      "iframe": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/3BDOK7jDAGK8yKAg1A6aEm?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      ]
     },
     {
       "id": 3,
-      "img": "/assets/albums/cover/rearranged.png",
-      "name": "Rearranged",
+      "img": "/assets/albums/cover/heavenly.png",
+      "name": "album 3",
       "tracks": [
         {
-          "name": "Rearranged",
-          "src": "https://open.spotify.com/embed/track/0E8Yg8IEXF8LdE3znCNXCy?utm_source=generator"
+          "name": "why",
+          "src": "https://open.spotify.com/track/6WWke4VMtmmeZW0wjhDnt3?si=e4b2d4f9095d41d7"
+        },
+        {
+          "name": "love language",
+          "src": "assets/why.mp3"
+        },
+        {
+          "name": "nights in the am",
+          "src": "assets/why.mp3"
+        },
+        {
+          "name": "rearranged",
+          "src": "assets/why.mp3"
+        },
+        {
+          "name": "heavenly",
+          "src": "assets/why.mp3"
         }
-      ],
-      "iframe": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/0E8Yg8IEXF8LdE3znCNXCy?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      ]
     },
     {
       "id": 4,
-      "img": "/assets/albums/cover/heavenly.png",
-      "name": "Heavenly",
+      "img": "/assets/albums/cover/love-language.png",
+      "name": "album 4",
       "tracks": [
         {
-          "name": "Heavenly",
-          "src": "https://open.spotify.com/embed/track/1KXDgsdeRyyw8xIM3MONor?utm_source=generator"
+          "name": "why",
+          "src": "https://open.spotify.com/track/6WWke4VMtmmeZW0wjhDnt3?si=e4b2d4f9095d41d7"
+        },
+        {
+          "name": "love language",
+          "src": "assets/why.mp3"
+        },
+        {
+          "name": "nights in the am",
+          "src": "assets/why.mp3"
+        },
+        {
+          "name": "rearranged",
+          "src": "assets/why.mp3"
+        },
+        {
+          "name": "heavenly",
+          "src": "assets/why.mp3"
         }
-      ],
-      "iframe": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/1KXDgsdeRyyw8xIM3MONor?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      ]
     },
     {
       "id": 5,
-      "img": "/assets/albums/cover/love-language.png",
-      "name": "Love Language",
+      "img": "/assets/albums/cover/nights-in-the-am.png",
+      "name": "album 5",
       "tracks": [
         {
-          "name": "Love Language",
-          "src": "https://open.spotify.com/embed/track/5AA6KBUSb437emo5q45DaW?utm_source=generator"
+          "name": "why",
+          "src": "assets/why.mp3"
+        },
+        {
+          "name": "love language",
+          "src": "assets/why.mp3"
+        },
+        {
+          "name": "nights in the am",
+          "src": "assets/why.mp3"
+        },
+        {
+          "name": "rearranged",
+          "src": "assets/why.mp3"
+        },
+        {
+          "name": "heavenly",
+          "src": "assets/why.mp3"
         }
-      ],
-      "iframe": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/5AA6KBUSb437emo5q45DaW?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      ]
     },
     {
       "id": 6,
-      "img": "/assets/albums/cover/album-why.png",
-      "name": "Why",
+      "img": "/assets/albums/cover/rearranged.png",
+      "name": "album 6",
       "tracks": [
         {
-          "name": "Why",
-          "src": "https://open.spotify.com/embed/track/1mWN4pjAGRFojl47OZzk64?utm_source=generator"
+          "name": "why",
+          "src": "https://open.spotify.com/track/6WWke4VMtmmeZW0wjhDnt3?si=e4b2d4f9095d41d7"
+        },
+        {
+          "name": "love language",
+          "src": "assets/why.mp3"
+        },
+        {
+          "name": "nights in the am",
+          "src": "assets/why.mp3"
+        },
+        {
+          "name": "rearranged",
+          "src": "assets/why.mp3"
+        },
+        {
+          "name": "heavenly",
+          "src": "assets/why.mp3"
         }
-      ],
-      "iframe": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/1mWN4pjAGRFojl47OZzk64?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      ]
     }
   ],
   "posts": [
