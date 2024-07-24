@@ -3,93 +3,15 @@
     {
       "id": 1,
       "date": {
-        "day": "15",
-        "month": "Feb"
+        "day": "TBD",
+        "month": ""
       },
       "location": {
-        "city": "Dallas",
-        "country": "USA",
-        "address": "Dallas Convention Center"
+        "city": "Coming Soon",
+        "country": "",
+        "address": ""
       },
-      "priceRange": "60-250$"
-    },
-    {
-      "id": 2,
-      "date": {
-        "day": "20",
-        "month": "Mar"
-      },
-      "location": {
-        "city": "Rio de Janeiro",
-        "country": "Brazil",
-        "address": "Christ of Redemption"
-      },
-      "priceRange": "40-200$"
-    },
-    {
-      "id": 3,
-      "date": {
-        "day": "10",
-        "month": "May"
-      },
-      "location": {
-        "city": "Paris",
-        "country": "France",
-        "address": "Eiffel Tower Park"
-      },
-      "priceRange": "70-300$"
-    },
-    {
-      "id": 4,
-      "date": {
-        "day": "25",
-        "month": "Jul"
-      },
-      "location": {
-        "city": "Berlin",
-        "country": "Germany",
-        "address": "Berlin Exhibition Hall"
-      },
-      "priceRange": "55-280$"
-    },
-    {
-      "id": 5,
-      "date": {
-        "day": "06",
-        "month": "Sep"
-      },
-      "location": {
-        "city": "Athens",
-        "country": "Greece",
-        "address": "Acropolis Amphitheatre"
-      },
-      "priceRange": "45-220$"
-    },
-    {
-      "id": 6,
-      "date": {
-        "day": "12",
-        "month": "Oct"
-      },
-      "location": {
-        "city": "Bucharest",
-        "country": "Romania",
-        "address": "National Arena"
-      },
-      "priceRange": "42-260$"
-    },
-    {
-      "id": 7,
-      "date": {
-        "day": "03",
-        "month": "Nov"
-      },
-      "location": {
-        "city": "Warsaw",
-        "country": "Poland",
-        "address": "PGE Narodowy"
-      },
-      "priceRange": "46-290$"
+      "priceRange": ""
     }
   ],
   "albums": [
@@ -164,6 +86,18 @@
         }
       ],
       "iframe": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/1mWN4pjAGRFojl47OZzk64?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+    },
+    {
+      "id": 6,
+      "img": "/assets/albums/cover/finally-different.png",
+      "name": "Finally Different",
+      "tracks": [
+        {
+          "name": "Finally Different",
+          "src": "https://open.spotify.com/embed/track/1mWN4pjAGRFojl47OZzk64?utm_source=generator"
+        }
+      ],
+      "iframe": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/4Tmy7L1evaNHd08DEZnOcb?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
     }
   ],
   "posts": [
@@ -176,12 +110,6 @@
     {
       "id": 2,
       "date": "2023-09-22",
-      "title": "Embracing Faith and Persistence on His Artistic Journey - A Bold Journey Feature",
-      "description": "In this Bold Journey Magazine feature, explore the compelling story of Leo Rain, a musician who intertwines his deep faith with a relentless work ethic. Gain insights into how his family background, inspiration from figures like Nipsey Hussle, and a commitment to consistency shape his musical and entrepreneurial pursuits. This article offers a thoughtful look at Leo's philosophy and approach to life, emphasizing the importance of faithfulness and patience in the pursuit of one's dreams."
-    },
-    {
-      "id": 3,
-      "date": "2024-01-01",
       "title": "Embracing Faith and Persistence on His Artistic Journey - A Bold Journey Feature",
       "description": "In this Bold Journey Magazine feature, explore the compelling story of Leo Rain, a musician who intertwines his deep faith with a relentless work ethic. Gain insights into how his family background, inspiration from figures like Nipsey Hussle, and a commitment to consistency shape his musical and entrepreneurial pursuits. This article offers a thoughtful look at Leo's philosophy and approach to life, emphasizing the importance of faithfulness and patience in the pursuit of one's dreams."
     }
