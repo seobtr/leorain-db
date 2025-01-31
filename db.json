@@ -17,6 +17,18 @@
   "albums": [
     {
       "id": 1,
+      "img": "/assets/albums/cover/hideaway.jpeg",
+      "name": "Hideaway - Single by Leo Rain",
+      "tracks": [
+        {
+          "name": "Hideaway",
+          "src": "https://open.spotify.com/embed/track/0Zeww0TQ0kXjsezRGWr1GN?utm_source=generator"
+        }
+      ],
+      "iframe": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/0Zeww0TQ0kXjsezRGWr1GN?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+    },
+    {
+      "id": 2,
       "img": "/assets/albums/cover/4EV3R-Album.jpeg",
       "name": "4EV3R (2024)",
       "tracks": [
@@ -28,7 +40,7 @@
       "iframe": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/album/0NPphzjlPDU4ve8z2vobkP?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
     },
     {
-      "id": 2,
+      "id": 3,
       "img": "/assets/albums/cover/finally-different.png",
       "name": "Finally Different (2024)",
       "tracks": [
@@ -40,7 +52,7 @@
       "iframe": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/4Tmy7L1evaNHd08DEZnOcb?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
     },
     {
-      "id": 3,
+      "id": 4,
       "img": "/assets/albums/cover/super.png",
       "name": "Super - 2023",
       "tracks": [
@@ -52,7 +64,7 @@
       "iframe": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/album/77tTqRtwPHfnrJg2QjrVQb?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
     },
     {
-      "id": 4,
+      "id": 5,
       "img": "/assets/albums/cover/nights-in-the-am.png",
       "name": "Nights In the A.M.",
       "tracks": [
@@ -64,7 +76,7 @@
       "iframe": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/3BDOK7jDAGK8yKAg1A6aEm?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
     },
     {
-      "id": 5,
+      "id": 6,
       "img": "/assets/albums/cover/rearranged.png",
       "name": "Rearranged",
       "tracks": [
@@ -76,7 +88,7 @@
       "iframe": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/0E8Yg8IEXF8LdE3znCNXCy?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
     },
     {
-      "id": 6,
+      "id": 7,
       "img": "/assets/albums/cover/heavenly.png",
       "name": "Heavenly",
       "tracks": [
@@ -88,7 +100,7 @@
       "iframe": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/1KXDgsdeRyyw8xIM3MONor?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
     },
     {
-      "id": 7,
+      "id": 8,
       "img": "/assets/albums/cover/love-language.png",
       "name": "Love Language",
       "tracks": [
@@ -100,7 +112,7 @@
       "iframe": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/5AA6KBUSb437emo5q45DaW?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
     },
     {
-      "id": 8,
+      "id": 9,
       "img": "/assets/albums/cover/album-why.png",
       "name": "Why",
       "tracks": [

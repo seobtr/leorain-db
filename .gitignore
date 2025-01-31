@@ -4,3 +4,8 @@ node_modules
 
 
 *.md
+
+db.json.test
+notes
+notes/2024-11-25.md
+notes/2024-11-26.md
