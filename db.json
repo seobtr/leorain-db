@@ -14,7 +14,7 @@
       "priceRange": ""
     }
   ],
-  "albums": [
+  "albums":  [
     {
       "id": 1,
       "img": "/assets/albums/cover/the-key.jpeg",
@@ -29,18 +29,6 @@
     },
     {
       "id": 2,
-      "img": "/assets/albums/cover/the-key.jpeg",
-      "name": "Right On Time - Single by Leo Rain",
-      "tracks": [
-        {
-          "name": "Right On Time",
-          "src": "https://open.spotify.com/embed/track/10nxTE56eVJGdbDQW6Umdy?utm_source=generator"
-        }
-      ],
-      "iframe": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/10nxTE56eVJGdbDQW6Umdy?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
-    },
-    {
-      "id": 3,
       "img": "/assets/albums/cover/hideaway.jpeg",
       "name": "Hideaway - Single by Leo Rain",
       "tracks": [
@@ -52,7 +40,7 @@
       "iframe": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/0Zeww0TQ0kXjsezRGWr1GN?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
     },
     {
-      "id": 4,
+      "id": 3,
       "img": "/assets/albums/cover/4EV3R-Album.jpeg",
       "name": "4EV3R (2024)",
       "tracks": [
@@ -64,7 +52,7 @@
       "iframe": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/album/0NPphzjlPDU4ve8z2vobkP?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
     },
     {
-      "id": 5,
+      "id": 4,
       "img": "/assets/albums/cover/finally-different.png",
       "name": "Finally Different (2024)",
       "tracks": [
@@ -76,7 +64,7 @@
       "iframe": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/4Tmy7L1evaNHd08DEZnOcb?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
     },
     {
-      "id": 6,
+      "id": 5,
       "img": "/assets/albums/cover/super.png",
       "name": "Super - 2023",
       "tracks": [
@@ -88,7 +76,7 @@
       "iframe": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/album/77tTqRtwPHfnrJg2QjrVQb?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
     },
     {
-      "id": 7,
+      "id": 6,
       "img": "/assets/albums/cover/nights-in-the-am.png",
       "name": "Nights In the A.M.",
       "tracks": [
@@ -100,7 +88,7 @@
       "iframe": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/3BDOK7jDAGK8yKAg1A6aEm?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
     },
     {
-      "id": 8,
+      "id": 7,
       "img": "/assets/albums/cover/rearranged.png",
       "name": "Rearranged",
       "tracks": [
@@ -112,7 +100,7 @@
       "iframe": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/0E8Yg8IEXF8LdE3znCNXCy?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
     },
     {
-      "id": 9,
+      "id": 8,
       "img": "/assets/albums/cover/heavenly.png",
       "name": "Heavenly",
       "tracks": [
@@ -124,7 +112,7 @@
       "iframe": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/1KXDgsdeRyyw8xIM3MONor?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
     },
     {
-      "id": 10,
+      "id": 9,
       "img": "/assets/albums/cover/love-language.png",
       "name": "Love Language",
       "tracks": [
@@ -136,7 +124,7 @@
       "iframe": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/5AA6KBUSb437emo5q45DaW?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
     },
     {
-      "id": 11,
+      "id": 10,
       "img": "/assets/albums/cover/album-why.png",
       "name": "Why",
       "tracks": [
@@ -151,10 +139,10 @@
   "posts": [
     {
       "id": 1,
-      "date": "March 17, 2022",
-      "title": "Charting a Unique Path in Music and Life - A Voyage Dallas Exclusive",
-      "description": "Discover the inspiring journey of musician Leo Rain in Voyage Dallas' exclusive interview. Delve into Leo's unique approach to blending his musical talent with entrepreneurial spirit, and how his personal experiences have shaped his artistic vision. This insightful article offers a rare glimpse into the life and mindset of an artist committed to authenticity and innovation in his craft.",
-      "oglink": "https://voyagedallas.com/interview/conversations-with-leo-rain-2/"
+      "date": "June 13, 2024",
+      "title": "Inspiring Conversations with Leo Rain of DrIVn Dynamics",
+      "description": "Leo Rain shares his journey as an R&B artist in Dallas, discussing how he discovered his passion for music, the challenges he's faced, and his unique approach to artistry that combines faith, purpose, and a smooth vibe.",
+      "oglink": "https://voyagedallas.com/interview/inspiring-conversations-with-leo-rain-of-drivn-dynamics/"
     },
     {
       "id": 2,
@@ -165,10 +153,10 @@
     },
     {
       "id": 3,
-      "date": "June 13, 2024",
-      "title": "Inspiring Conversations with Leo Rain of DrIVn Dynamics",
-      "description": "Leo Rain shares his journey as an R&B artist in Dallas, discussing how he discovered his passion for music, the challenges he's faced, and his unique approach to artistry that combines faith, purpose, and a smooth vibe.",
-      "oglink": "https://voyagedallas.com/interview/inspiring-conversations-with-leo-rain-of-drivn-dynamics/"
+      "date": "March 17, 2022",
+      "title": "Charting a Unique Path in Music and Life - A Voyage Dallas Exclusive",
+      "description": "Discover the inspiring journey of musician Leo Rain in Voyage Dallas' exclusive interview. Delve into Leo's unique approach to blending his musical talent with entrepreneurial spirit, and how his personal experiences have shaped his artistic vision. This insightful article offers a rare glimpse into the life and mindset of an artist committed to authenticity and innovation in his craft.",
+      "oglink": "https://voyagedallas.com/interview/conversations-with-leo-rain-2/"
     }
   ]
 }
